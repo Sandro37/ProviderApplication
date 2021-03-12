@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ProviderApplication</string>
+    <string name="app_cliente">App Cliente</string>
+    <string name="image_button_floating">Icone</string>
+</resources>
